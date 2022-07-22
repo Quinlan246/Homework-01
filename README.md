@@ -12,6 +12,8 @@ I condensed the style sheet
 
 I changed the header tag on the style sheet to show the nav tag to correspond with the code on the index page
 
-https://user-images.githubusercontent.com/108549782/180357482-5296d144-9dab-4579-ac1c-c71b8262fc81.png
+![quinlan246 github io_Homework-01_](https://user-images.githubusercontent.com/108549782/180361483-4e9ed982-caa9-4f2d-b705-eb215af4fc92.png)
+
+https://quinlan246.github.io/Homework-01/
 
 credit: 2019 Horiseon Social Solution Services, Inc.
